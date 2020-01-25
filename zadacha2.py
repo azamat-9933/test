@@ -6,3 +6,4 @@ while True:
     elif b == 0:
         break  
 print(a)
+print(a)
